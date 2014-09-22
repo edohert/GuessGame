@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+
+#wrapper {
+    background-image: url(http://images.wikia.com/harrypotter/images/archive/6/64/20080604135534!Hogwarts_1.jpg);
+    background-repeat: no-repeat;
+    position: center;
+    margin: 0 auto;
+    width: 900px;
+    height: 600px;
+    text-align: center;
+    font-family: 'Oswald', 'Futura', sans-serif;
+}
+
+h2 {
+    position: relative;
+    margin-top: 25px;
+
+}
+
+form {
+    display: inline-block;
+}
+
+button{
+    display: inline-block;
+    height:25px;
+    width:70px;
+    background-color:#336600;
+    color:#ffffff;
+    border-radius: 5px;
+    text-align:center;
+    margin-top:2px;
+}
+
+.list {
+    width: 100px;
+}
+
+.select{
+    background-color: blue;
+}
+
+.white {
+    background-color: white;
+}
